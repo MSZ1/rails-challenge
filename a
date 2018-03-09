@@ -1,0 +1,5 @@
+        axios.post('/api/wordtasks', { task: { main_word: this.Word1 } }).then((response) => {
+          this.worddata.unshift(response.data.task);
+        }, (error) => {
+          console.log(error);
+        }),

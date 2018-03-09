@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  main_word: MyString
+  word1: MyString
+  word2: MyString
+  word3: MyString
+  word4: MyString
+  word5: 
+  word6: MyString
+  wiki_url: MyString
+  word_url: MyString
+  text: MyString
+  sum_text: MyString
+  is_done: false
+
+two:
+  main_word: MyString
+  word1: MyString
+  word2: MyString
+  word3: MyString
+  word4: MyString
+  word5: 
+  word6: MyString
+  wiki_url: MyString
+  word_url: MyString
+  text: MyString
+  sum_text: MyString
+  is_done: false
