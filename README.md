@@ -1,4 +1,4 @@
-# リポジトリ名
+# 概要
 AWS cloud9でrails環境を構築し、vue.js + materializeで簡単なwebアプリケーションを作成しました。
 
 ## Description
