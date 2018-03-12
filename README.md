@@ -14,6 +14,7 @@ nodeやrails等はAWS cloud9上ではじめから用意されているものを�
 
 ## Run
 実行結果は以下のようになります。
+https://user-images.githubusercontent.com/33398758/37268335-b73ca8b4-2608-11e8-8787-bcd1aac4d0cb.gif
 
 ## Reflection point
 普段は数値計算言語のMATLABやpythonで機械学習関連のプログラムを書いています。
