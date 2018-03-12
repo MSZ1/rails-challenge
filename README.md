@@ -1,6 +1,10 @@
 # 概要
 AWS cloud9でrails環境を構築し、vue.js + materializeで簡単なwebアプリケーションを作成しました
 
+単語からwikipediaの記事をクロールし、関連する単語をリストアップします
+
+単語の説明はマルコフ連鎖を使って記事を要約しています
+
 ## Description
 AWS cloud9上からの接続は以下のgif画像を参考にしてください
 
