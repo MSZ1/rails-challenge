@@ -1,5 +1,5 @@
 # 概要
-AWS cloud9でrails環境を構築し、vue.js + materializeで簡単なwebアプリケーションを作成しました。
+AWS cloud9でrails環境を構築し、vue.js + materializeで簡単なwebアプリケーションを作成しました
 
 ## Description
 AWS cloud9上からの接続は以下のgif画像を参考にしてください
@@ -14,6 +14,7 @@ nodeやrails等はAWS cloud9上ではじめから用意されているものを�
 
 ## Run
 実行結果は以下のようになります。
+PreviewタブからPreview Running Applicationを選択するとページが開きます
 ![gif](https://user-images.githubusercontent.com/33398758/37268335-b73ca8b4-2608-11e8-8787-bcd1aac4d0cb.gif)
 
 
